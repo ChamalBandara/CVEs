@@ -1,2 +1,6 @@
 # CVEs
 Research CVEs
+CVE-2022-32065 :: JAVA
+CVE-2022-31157 :: PHP
+CVE-2022-31153 :: Python
+CVE-2020-28191 :: Java
